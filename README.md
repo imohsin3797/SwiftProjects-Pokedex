@@ -1,1 +1,1 @@
-# f24-bootcamp-pokedex
+# Pokedex
